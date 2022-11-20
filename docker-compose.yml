@@ -1,0 +1,9 @@
+version: "3.8"
+services:
+  bwapp:
+    build:
+      context: "./.docker"
+    container_name: bwapp
+    restart: unless-stopped
+    ports:
+      - 80:80
