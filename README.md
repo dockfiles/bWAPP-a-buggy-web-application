@@ -33,4 +33,7 @@ docker compose up -d
 
 ## Installing bWAPP
 
-- After running the bWAPP container, navigate to http://localhost/install.php to complete the bWAPP setup process.
+- After running the bWAPP container, navigate to `http://localhost/install.php` to complete the bWAPP setup process.
+
+![image](https://user-images.githubusercontent.com/110657529/202926891-5dc5ad57-b981-431e-972f-bf6561d4a371.png)
+
